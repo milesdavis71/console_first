@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f747274-3a1b-4834-bef6-1974dfe27ff1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jV9Wxiewd8eU8TR0xuEa3hGunh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f747274-3a1b-4834-bef6-1974dfe27ff1" name="Default Changelist" comment="" />
+      <created>1603878427131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603878427131</updated>
+      <workItem from="1603878430980" duration="900000" />
+    </task>
+    <task id="LOCAL-00001" summary="Inicializálás">
+      <created>1603878499377</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603878499377</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inicializálás" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicializálás" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="0" key="CommitChangelistDialog2" timestamp="1603878498286">
+      <screen x="80" y="0" width="1456" height="864" />
+    </state>
+    <state x="433" y="0" key="CommitChangelistDialog2/80.0.1456.864@80.0.1456.864" timestamp="1603878498286" />
+    <state x="401" y="152" key="Vcs.Push.Dialog.v2" timestamp="1603878572802">
+      <screen x="80" y="0" width="1456" height="864" />
+    </state>
+    <state x="401" y="152" key="Vcs.Push.Dialog.v2/80.0.1456.864@80.0.1456.864" timestamp="1603878572802" />
+  </component>
+</project>
